@@ -1,0 +1,35 @@
+[
+	{
+		"type": "enchantment",
+		"id": "BIONICPATH_BUFF",
+		"values": [
+			{ "value": "LEARNING_FOCUS" , "multiply": { "u_val": "var", "var_name": "cultivation_multiplier" } }
+		]
+	},
+	
+	{
+		"type": "enchantment",
+		"id": "MINDPATH_BUFF",
+		"values": [
+			{ "value": "LEARNING_FOCUS" , "multiply": { "u_val": "var", "var_name": "cultivation_multiplier" } }
+		]
+	},
+	
+	{
+		"type": "enchantment",
+		"id": "BODYPATH_BUFF",
+		"values": [
+			{ "value": "LEARNING_FOCUS" , "multiply": { "u_val": "var", "var_name": "cultivation_multiplier" } }
+		]
+	},
+	
+	{
+		"type": "enchantment",
+		"id": "MAGICPATH_BUFF",
+		"values": [
+			{ "value": "LEARNING_FOCUS" , "multiply": { "u_val": "var", "var_name": "cultivation_learning_multiplier" } },
+			{ "value": "REGEN_MANA" , "multiply": { "u_val": "var", "var_name": "cultivation_regen_multiplier" } },
+			{ "value": "MAX_MANA" , "multiply": { "u_val": "var", "var_name": "cultivation_mana_multiplier" } }
+		]
+	}
+]

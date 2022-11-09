@@ -1,0 +1,193 @@
+[
+	{
+    "type": "mutation",
+    "id": "BIONICPATH1",
+    "name": "Technological Ascension Technique",
+    "points": 0,
+    "description": "Allows your bionics to ascend into godhood.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "BIONICPATH2",
+    "name": "Heaven Defying Machine Technique",
+    "points": 0,
+    "description": "Defy the heavens and becoming a god by harnessing the parts of you that are more than man.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "BIONICPATH3",
+    "name": "Limitless Machine Technique",
+    "points": 0,
+    "description": "Allow yourself to contain a near limitless amount of bionics.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "BIONICPATH4",
+    "name": "Unlimited Power Technique",
+    "points": 0,
+    "description": "Never worry about lack of bionic power again, harness the world energy to power yourself endlessly.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "BODYPATH1",
+    "name": "Biological Ascension Technique",
+    "points": 0,
+    "description": "Allows your body to ascend into godhood.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "BODYPATH2",
+    "name": "Heaven Defying Body Technique",
+    "points": 0,
+    "description": "Allows you to withstand the heavens that come bearing down on you.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "BODYPATH3",
+    "name": "Cockroach Technique",
+    "points": 0,
+    "description": "Trains your body to be nigh unkillable.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "BODYPATH4",
+    "name": "Mutation Ascension Technique",
+    "points": 0,
+    "description": "Allows your body to ascend through mutations.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "MINDPATH1",
+    "name": "Mind Ascension Technique",
+    "points": 0,
+    "description": "Allows your mind to ascend into godhood.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "MINDPATH2",
+    "name": "Reality Controller Technique",
+    "points": 0,
+    "description": "Control reality to bend to your whims.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "MINDPATH3",
+    "name": "Unkillable Will Technique",
+    "points": 0,
+    "description": "Be nearly unkillable as long as your Will is in tact.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "MINDPATH4",
+    "name": "Psionic Technique",
+    "points": 0,
+    "description": "Enhance your mind enough to affect reality slightly.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "MAGICPATH1",
+    "name": "Magic Ascension Technique",
+    "points": 0,
+    "description": "Allows your magic to ascend into godhood.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH2", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "MAGICPATH2",
+    "name": "Heaven Defying Magic Technique",
+    "points": 0,
+    "description": ".",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH3", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "MAGICPATH3",
+    "name": "Limitless Magic Technique",
+    "points": 0,
+    "description": "Harness the world energy to make your reserves near limitless.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH4", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  },
+  
+  {
+    "type": "mutation",
+    "id": "MAGICPATH4",
+    "name": "Unlimited Magic Technique",
+    "points": 0,
+    "description": "Harness the world energy to refill your reserves quickly.",
+    "starting_trait": false,
+    "purifiable": false,
+    "valid": false,
+    "cancels": [ "MAGICPATH1", "MAGICPATH2", "MAGICPATH3", "BIONICPATH1", "BIONICPATH2", "BIONICPATH3", "BIONICPATH4", "MINDPATH1", "MINDPATH2", "MINDPATH3", "MINDPATH4", "BODYPATH1", "BODYPATH2", "BODYPATH3", "BODYPATH4" ]
+  }
+]

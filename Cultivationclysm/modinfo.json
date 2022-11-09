@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "cultivationclysm",
+    "name": "Cultivationclysm",
+    "authors": [ "Computer Engineer Man" ],
+    "description": "Stomp on young master zombies and then cower in fear as an ancient ancestor zombie appears to slap you down from the heavens. NOT PLANTS CULTIVATION, XIANXIA CULTIVATION!!!",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]

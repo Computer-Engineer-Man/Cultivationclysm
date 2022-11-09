@@ -1,0 +1,449 @@
+[
+	{
+		"id": "bionic_path_1_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "bionic_path_1_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "bionic_path_1_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "technological ascension technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "bionic_path_2_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "bionic_path_2_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "bionic_path_2_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "heaven defying machine technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "bionic_path_3_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "bionic_path_3_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "bionic_path_3_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "limitless machine technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "bionic_path_4_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "bionic_path_4_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "bionic_path_4_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "limitless power technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "body_path_1_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "body_path_1_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "body_path_1_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "biological ascension technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "body_path_2_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "body_path_2_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "body_path_2_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "heaven defying body technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "body_path_3_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "body_path_3_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "body_path_3_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "mutation ascension technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "body_path_4_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "body_path_4_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "body_path_4_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "cockroach technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "mind_path_1_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "mind_path_1_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "mind_path_1_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "mind ascension technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "mind_path_2_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "mind_path_2_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "mind_path_2_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "heaven defying mind technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "mind_path_3_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "mind_path_3_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "mind_path_3_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "reality controller technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "mind_path_4_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "mind_path_4_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "mind_path_4_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "unkillable will technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "magic_path_1_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "magic_path_1_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "magic_path_1_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "magic ascension technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "magic_path_2_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "magic_path_2_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "magic_path_2_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "heaven defying magic technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "magic_path_3_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "magic_path_3_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "magic_path_3_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "limitless magic technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	},
+	
+	{
+		"id": "magic_path_4_book_sealed",
+		"type": "TOOL",
+		"name": { "str": "sealed cultivation book" },
+		"description": "A sealed book",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type": "transform",
+			"target": "magic_path_4_book_unsealed",
+			"menu_text": "Unseal",
+			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"moves": 500
+		}
+	},
+	
+	{
+		"id": "magic_path_4_book_unsealed",
+		"type": "TOOL",
+		"name": { "str": "unlimited magic technique" },
+		"description": "DESCRIPTION HERE",
+		"price_postapoc": 20000,
+		"use_action": {
+			"type" :"effect_on_conditions",
+			"description" :"You begin to train according to the technique",
+			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+		}
+	}
+]

@@ -1,0 +1,103 @@
+[
+	{
+		"type": "mutation",
+		"id": "CORE1",
+		"name": "World Energy Condensing Stage",
+		"points": 1,
+		"description": "The beginning of cultivation. Slowly condensing world energy until you are able to breakthrough.",
+		"valid": false,
+		"purifiable": false,
+		"player_display": true,
+		"active": true,
+		"activated_eocs": [ "BEGIN_BREAKTHROUGH" ]
+	},
+	
+	{
+		"type": "mutation",
+		"id": "CORE2",
+		"name": "Foundation Establishment Stage",
+		"points": 2,
+		"description": "You begin to form your foundation by allowing world energy to infuse itself into you.",
+		"valid": false,
+		"purifiable": false,
+		"player_display": true,
+		"active": true,
+		"activated_eocs": [ "BEGIN_BREAKTHROUGH" ]
+	},
+	
+	{
+		"type": "mutation",
+		"id": "CORE3",
+		"name": "Golden Core Stage",
+		"points": 4,
+		"description": "The core has become so pure that it shines an internal gleam of gold. It signifies the peak for low-tier cultivatiors.",
+		"valid": false,
+		"purifiable": false,
+		"player_display": true,
+		"active": true,
+		"activated_eocs": [ "BEGIN_BREAKTHROUGH" ]
+	},
+	
+	{
+		"type": "mutation",
+		"id": "CORE4",
+		"name": "Revolving Core Stage",
+		"points": 6,
+		"description": "Once the core begins to rotate there are significant benefits and it allows for far stronger abilities. It seems to be slowly accelerating.",
+		"valid": false,
+		"purifiable": false,
+		"player_display": true,
+		"active": true,
+		"activated_eocs": [ "BEGIN_BREAKTHROUGH" ]
+	},
+	
+	{
+		"type": "mutation",
+		"id": "CORE5",
+		"name": "Absolute Core Stage",
+		"points": 8,
+		"description": "The core moves so fast it seems to not move at all. It seems to be slowly growing.",
+		"valid": false,
+		"purifiable": false,
+		"player_display": true,
+		"active": true,
+		"activated_eocs": [ "BEGIN_BREAKTHROUGH" ]
+	},
+	
+	{
+		"type": "mutation",
+		"id": "CORE6",
+		"name": "Embody Core Stage",
+		"points": 10,
+		"description": "Your core begins to deform and slowly reaches out to each of your limbs. Slowly growing to reach the furthest parts of your body.",
+		"valid": false,
+		"purifiable": false,
+		"player_display": true,
+		"active": true,
+		"activated_eocs": [ "BEGIN_BREAKTHROUGH" ]
+	},
+	
+	{
+		"type": "mutation",
+		"id": "CORE7",
+		"name": "True Core Stage",
+		"points": 16,
+		"description": "You have become your core and if it was the past you would be considered one of the strongest cultivators.",
+		"valid": false,
+		"purifiable": false,
+		"player_display": true,
+		"active": true,
+		"activated_eocs": [ "ATTEMPT_FINAL_BREAKTHROUGH" ]
+	},
+	
+	{
+		"type": "mutation",
+		"id": "CORE8",
+		"name": "Worldly Core Stage",
+		"points": 20,
+		"description": "The pinnacle of cultivation, your core begins to emit world energy you can use freely. Unbeatable to all but the most powerful beings.",
+		"valid": false,
+		"purifiable": false,
+		"player_display": true
+	}
+]

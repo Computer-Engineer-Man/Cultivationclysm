@@ -5,6 +5,10 @@
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
 		"price_postapoc": 20000,
+		"material": [ "paper" ],
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type": "transform",
 			"target": "bionic_path_1_book_unsealed",
@@ -20,10 +24,13 @@
 		"name": { "str": "technological ascension technique" },
 		"description": "DESCRIPTION HERE",
 		"price_postapoc": 20000,
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRRIPTION FOR ITEM",
+			"effect_on_conditions" : [ "BEGIN_BIONIC_PATH1" ]
 		}
 	},
 	
@@ -33,6 +40,9 @@
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
 		"price_postapoc": 20000,
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type": "transform",
 			"target": "bionic_path_2_book_unsealed",
@@ -48,10 +58,13 @@
 		"name": { "str": "heaven defying machine technique" },
 		"description": "DESCRIPTION HERE",
 		"price_postapoc": 20000,
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_BIONIC_PATH2"]
 		}
 	},
 	
@@ -61,6 +74,9 @@
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
 		"price_postapoc": 20000,
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type": "transform",
 			"target": "bionic_path_3_book_unsealed",
@@ -76,10 +92,13 @@
 		"name": { "str": "limitless machine technique" },
 		"description": "DESCRIPTION HERE",
 		"price_postapoc": 20000,
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_BIONIC_PATH3"]
 		}
 	},
 	
@@ -89,6 +108,9 @@
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
 		"price_postapoc": 20000,
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type": "transform",
 			"target": "bionic_path_4_book_unsealed",
@@ -104,10 +126,13 @@
 		"name": { "str": "limitless power technique" },
 		"description": "DESCRIPTION HERE",
 		"price_postapoc": 20000,
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_BIONIC_PATH4"]
 		}
 	},
 	
@@ -117,6 +142,9 @@
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
 		"price_postapoc": 20000,
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type": "transform",
 			"target": "body_path_1_book_unsealed",
@@ -132,10 +160,13 @@
 		"name": { "str": "biological ascension technique" },
 		"description": "DESCRIPTION HERE",
 		"price_postapoc": 20000,
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_BODY_PATH1"]
 		}
 	},
 	
@@ -145,6 +176,9 @@
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
 		"price_postapoc": 20000,
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"use_action": {
 			"type": "transform",
 			"target": "body_path_2_book_unsealed",
@@ -159,11 +193,14 @@
 		"type": "TOOL",
 		"name": { "str": "heaven defying body technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_BODY_PATH2"]
 		}
 	},
 	
@@ -172,6 +209,9 @@
 		"type": "TOOL",
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type": "transform",
@@ -187,11 +227,14 @@
 		"type": "TOOL",
 		"name": { "str": "mutation ascension technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_BODY_PATH3"]
 		}
 	},
 	
@@ -200,6 +243,9 @@
 		"type": "TOOL",
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type": "transform",
@@ -215,11 +261,14 @@
 		"type": "TOOL",
 		"name": { "str": "cockroach technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_BODY_PATH4"]
 		}
 	},
 	
@@ -228,6 +277,9 @@
 		"type": "TOOL",
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type": "transform",
@@ -243,11 +295,14 @@
 		"type": "TOOL",
 		"name": { "str": "mind ascension technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_MIND_PATH1"]
 		}
 	},
 	
@@ -256,6 +311,9 @@
 		"type": "TOOL",
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type": "transform",
@@ -271,11 +329,14 @@
 		"type": "TOOL",
 		"name": { "str": "heaven defying mind technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_MIND_PATH2"]
 		}
 	},
 	
@@ -284,6 +345,9 @@
 		"type": "TOOL",
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type": "transform",
@@ -299,11 +363,14 @@
 		"type": "TOOL",
 		"name": { "str": "reality controller technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_MIND_PATH3"]
 		}
 	},
 	
@@ -312,6 +379,9 @@
 		"type": "TOOL",
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type": "transform",
@@ -327,11 +397,14 @@
 		"type": "TOOL",
 		"name": { "str": "unkillable will technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_MIND_PATH4"]
 		}
 	},
 	
@@ -340,6 +413,9 @@
 		"type": "TOOL",
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type": "transform",
@@ -355,11 +431,14 @@
 		"type": "TOOL",
 		"name": { "str": "magic ascension technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_MAGIC_PATH1"]
 		}
 	},
 	
@@ -368,6 +447,9 @@
 		"type": "TOOL",
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type": "transform",
@@ -383,11 +465,14 @@
 		"type": "TOOL",
 		"name": { "str": "heaven defying magic technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_MAGIC_PATH2"]
 		}
 	},
 	
@@ -396,6 +481,9 @@
 		"type": "TOOL",
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type": "transform",
@@ -411,11 +499,14 @@
 		"type": "TOOL",
 		"name": { "str": "limitless magic technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_MAGIC_PATH3"]
 		}
 	},
 	
@@ -424,12 +515,15 @@
 		"type": "TOOL",
 		"name": { "str": "sealed cultivation book" },
 		"description": "A sealed book",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type": "transform",
 			"target": "magic_path_4_book_unsealed",
 			"menu_text": "Unseal",
-			"msg": "As you unseal this book you feel as though if you read it you will not be able to pursue any other cultivation techniques.",
+			"msg": "You unseal the book.",
 			"moves": 500
 		}
 	},
@@ -439,11 +533,14 @@
 		"type": "TOOL",
 		"name": { "str": "unlimited magic technique" },
 		"description": "DESCRIPTION HERE",
+		"symbol": "?",
+		"weight": "777 g",
+		"volume": "777 ml",
 		"price_postapoc": 20000,
 		"use_action": {
 			"type" :"effect_on_conditions",
-			"description" :"You begin to train according to the technique",
-			"effect_on_conditions" : ["BEGIN_CULTIVATION"]
+			"description" :"DESCRIPTION FOR ITEM",
+			"effect_on_conditions" : ["BEGIN_MAGIC_PATH4"]
 		}
 	}
 ]

@@ -1,0 +1,13 @@
+[
+	{
+		"id": "prompt_breakthrough",
+		"type": "SPELL",
+		"name": "DEBUG - Prompt Breakthrough",
+		"description": "A debug spell that forces you to breakthrough.",
+		"valid_targets": "self",
+		"effect": "effect_on_condition",
+		"shape": "blast",
+		"flags": [ "NO_PROJECTILE", "NO_HANDS", "NO_LEGS", "SILENT" ],
+		"effect_str": "BEGIN_BREAKTHROUGH"
+	}
+]
